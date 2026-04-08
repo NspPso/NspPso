@@ -1,14 +1,21 @@
 # Malcolm Battle
 
-Master's student in Data Analytics building Python, machine learning, and data projects with a focus on reproducible workflows, careful evaluation, and practical problem-solving.
+Master's student in Data Analytics building Python, machine learning, and workflow automation projects with a focus on reproducible systems, clear evaluation, and practical problem-solving.
 
-## Featured Projects
+## What I Build
+
+- machine learning pipelines
+- Python automation and CLI tools
+- data analysis and technical reporting
+- small apps that make technical workflows easier to use
+
+## Featured Work
 
 ### Code Climb Practice Hub
-A local practice app for Python and R interview drills with timed sessions, hints, solutions, and in-browser progress tracking.
+A lightweight local practice app for Python and R interview drills with timed sessions, runnable exercises, hints, solutions, and browser-based progress tracking.
 
 ### Spotify Hit Prediction
-A leakage-safe machine learning pipeline that predicts Spotify track popularity using group-aware validation, structured preprocessing, and multiple benchmark models.
+A leakage-safe machine learning pipeline that predicts Spotify track popularity using group-aware validation, structured preprocessing, multiple benchmark models, and probability calibration.
 
 ### EDM Genre Classification
 A reproducible Python and R case study comparing classical models on engineered audio features and documenting validation risks, confusion patterns, and model behavior.
@@ -27,6 +34,8 @@ A Python CLI project that ingests local documents, compiles searchable notes, bu
 - scikit-learn
 - PyTorch
 - XGBoost
+- CLI tooling
+- workflow automation
 - Data analysis
 - Machine learning
 - Technical reporting
