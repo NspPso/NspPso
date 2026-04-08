@@ -13,6 +13,9 @@ A leakage-safe machine learning pipeline that predicts Spotify track popularity 
 ### EDM Genre Classification
 A reproducible Python and R case study comparing classical models on engineered audio features and documenting validation risks, confusion patterns, and model behavior.
 
+### Living Knowledge Pipeline
+A Python CLI project that ingests local documents, compiles searchable notes, builds indexes, and supports question-answering and export workflows over a growing knowledge base.
+
 ## Skills
 
 - Python
