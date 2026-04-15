@@ -11,6 +11,9 @@ Master's student in Data Analytics building Python, machine learning, and workfl
 
 ## Featured Work
 
+### [Self-Monitoring ML Agent](https://github.com/NspPso/self_monitoring_ml_agent)
+A reliability-focused agent evaluation project that turns benchmark telemetry into survival analysis, configuration-level failure tracking, healthy-streak analysis, and a reproducible notebook/report workflow for predicting when an ML agent starts to degrade.
+
 ### Code Climb Practice Hub
 A lightweight local practice app for Python and R interview drills with timed sessions, runnable exercises, hints, solutions, and browser-based progress tracking.
 
